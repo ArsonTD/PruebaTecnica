@@ -1,9 +1,9 @@
+Prueba Técnica – Gestor de Proyectos
 
 Este proyecto fue desarrollado como parte de la prueba técnica para la posición de Junior Fullstack Developer.
-
 La aplicación implementa un CRUD de proyectos utilizando FastAPI en el backend, PostgreSQL como base de datos y React en el frontend para consumir la API.
-
 El objetivo es demostrar la capacidad de construir una aplicación fullstack básica con comunicación entre frontend, backend y base de datos.
+
 
 Tecnologías utilizadas
 
